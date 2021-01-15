@@ -1,4 +1,5 @@
-# 210115package basic;
+# 210115
+package basic;
 
 import java.util.Scanner;
 
